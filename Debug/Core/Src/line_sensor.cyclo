@@ -1,0 +1,3 @@
+../Core/Src/line_sensor.c:3:6:LineSensor_Init	3
+../Core/Src/line_sensor.c:23:10:LineSensor_ReadLeft	2
+../Core/Src/line_sensor.c:39:10:LineSensor_ReadRight	2

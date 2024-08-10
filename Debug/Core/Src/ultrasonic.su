@@ -1,0 +1,2 @@
+../Core/Src/ultrasonic.c:4:6:Ultrasonic_Init	8	static
+../Core/Src/ultrasonic.c:14:10:Ultrasonic_ReadDistance	32	static

@@ -1,0 +1,4 @@
+../Core/Src/gpio.c:3:6:GPIO_Init	8	static
+../Core/Src/gpio.c:26:6:GPIO_SetPinHigh	16	static
+../Core/Src/gpio.c:30:6:GPIO_SetPinLow	16	static
+../Core/Src/gpio.c:34:9:GPIO_ReadPin	16	static

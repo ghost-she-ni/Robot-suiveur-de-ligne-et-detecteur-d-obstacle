@@ -1,0 +1,5 @@
+../Core/Src/led_rgb.c:3:6:LED_RGB_Init	8	static
+../Core/Src/led_rgb.c:8:6:LED_RGB_SetRed	8	static
+../Core/Src/led_rgb.c:14:6:LED_RGB_SetGreen	8	static
+../Core/Src/led_rgb.c:20:6:LED_RGB_SetBlue	8	static
+../Core/Src/led_rgb.c:26:6:LED_RGB_Off	8	static

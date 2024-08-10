@@ -1,0 +1,2 @@
+../Core/Src/button.c:4:6:Button_Init	1
+../Core/Src/button.c:10:6:isButtonPressed	1

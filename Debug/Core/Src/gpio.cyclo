@@ -1,0 +1,4 @@
+../Core/Src/gpio.c:3:6:GPIO_Init	1
+../Core/Src/gpio.c:26:6:GPIO_SetPinHigh	1
+../Core/Src/gpio.c:30:6:GPIO_SetPinLow	1
+../Core/Src/gpio.c:34:9:GPIO_ReadPin	1

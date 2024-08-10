@@ -1,0 +1,5 @@
+../Core/Src/motor.c:3:6:Motor_Init	1
+../Core/Src/motor.c:8:6:Motor_Forward	1
+../Core/Src/motor.c:16:6:Motor_Stop	1
+../Core/Src/motor.c:24:6:Motor_Left	1
+../Core/Src/motor.c:32:6:Motor_Right	1
